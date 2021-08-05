@@ -26,7 +26,6 @@ class Solution:
             return
         
         res = 0
-        
         for u, v, cost in pipes:
             if find(u) != find(v):
                 union(u, v)
