@@ -19,5 +19,4 @@ class Solution:
             s.pop(stack_index[-1])
             stack_index.pop()
         
-        return ''.join(s)
-                        
+        return ''.join(s)              
