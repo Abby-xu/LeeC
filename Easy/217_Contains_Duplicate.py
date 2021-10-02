@@ -15,4 +15,5 @@ class Solution:
                 
         return False
         '''
+        ### length of set ###
         return not(len(nums) == len(set(nums)))
