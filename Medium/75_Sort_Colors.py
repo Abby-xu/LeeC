@@ -6,7 +6,7 @@ class Solution:
                 nums[red], nums[white] = nums[white], nums[red]
                 white += 1
                 red += 1
-            elif nums[white] == 1:
+            elif nums[white] == 1: # [white]
                 white += 1
             else: # [blue] swap white and blue
                 nums[white], nums[blue] = nums[blue], nums[white]
