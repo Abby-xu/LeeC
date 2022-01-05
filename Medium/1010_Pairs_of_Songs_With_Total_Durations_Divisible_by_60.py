@@ -1,5 +1,6 @@
 class Solution:
     def numPairsDivisibleBy60(self, time: List[int]) -> int:
+        
         ans, cnt = 0, [0] * 60
         for t in time: cnt[t % 60] += 1
         for i in range(1, 30): ans += cnt[i] * cnt[60 - i]
