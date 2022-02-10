@@ -11,3 +11,12 @@ class Solution:
             dic[sums] = dic.get(sums, 0) + 1
         return count
             
+#         # simple version: return bool::using set
+#         summ = 0
+#         prefix_sums = set([0])
+#         for x in nums:
+#             summ += x
+#             if summ - k in prefix_sums:
+#                 return True
+#             prefix_sums.add(summ)
+#         return False
