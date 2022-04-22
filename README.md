@@ -5,3 +5,4 @@ This is my python solutions for patial leetcode question.
 （水一水）
 （水二水）
 （水三水）
+（水四水）
