@@ -8,3 +8,4 @@ This is my python solutions for patial leetcode question.
 （水四水）
 （水五水）
 （水六水）
+（水七水）
