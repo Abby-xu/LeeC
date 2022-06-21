@@ -16,3 +16,4 @@ This is my python solutions for patial leetcode question.
 （水十二水）
 （水十三水）
 （水十四水）
+（水十五水）
