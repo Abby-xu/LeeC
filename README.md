@@ -13,4 +13,3 @@ This is my python solutions for patial leetcode question.
 （水九水）
 （水十水）
 （水十一水）
-（水十二水）
