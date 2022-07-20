@@ -9,4 +9,3 @@ This is my python solutions for patial leetcode question.
 （水五水）
 （水六水）
 （水七水）
-（水八水）
