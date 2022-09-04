@@ -1,2 +1,2 @@
 #### Preparing tech interviews
-python solutions for patial leetcode question.
+python solutions for patial leetcode questions.
